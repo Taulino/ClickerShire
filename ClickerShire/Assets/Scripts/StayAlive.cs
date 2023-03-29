@@ -25,7 +25,10 @@ public class StayAlive : MonoBehaviour
         
     }
     
+    public void IEnumarator()
+    {
 
+    }
   
     void Update()
     {
