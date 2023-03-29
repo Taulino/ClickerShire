@@ -23,13 +23,7 @@ public class StayAlive : MonoBehaviour
     void Start()
     {
         
-    }
-    
-    public void IEnumarator()
-    {
-
-    }
-  
+    }   
     void Update()
     {
         myButton.onClick.AddListener(TaskOnClick);
